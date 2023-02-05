@@ -15,7 +15,7 @@
 	}
   ```
   
-  ## My 
+  ## My preferences
   ```json
   {
 	"FavoriteMovie":"CastAway",
