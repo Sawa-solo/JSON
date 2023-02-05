@@ -1,5 +1,20 @@
 # JSON
 
+## About me
+```json
+{
+   "name":"Aleksandra",
+   "patronymic":"Nikolaevna",
+   "surname":"Soloshchenko",
+   "age":29,
+   "pets":[
+        {"pet":"cat","name":"Kusha","gender":"female","age":5}
+        {"pet":"cat","name":"Murka","gender":"female","age":10}
+	]
+   "salary":3000
+	}
+  ```
+  
 ## Bug report
 ```json
 {
