@@ -1,6 +1,6 @@
 # JSON
 
-## 
+## Bug report
 ```json
 {
 "Application":"Crypto Academy by Investmate",
