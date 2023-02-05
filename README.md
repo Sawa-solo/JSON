@@ -15,6 +15,17 @@
 	}
   ```
   
+  ## My 
+  ```json
+  {
+	"FavoriteMovie":"CastAway",
+	"FavoriteTVShow":["Friends","TheOffice"],
+	"FavoriteFood":["vegetables","crisps","chocolate"],
+	"FavoriteTimeOfYear":"summer",
+	"CountryIWantToVisit":["Georgia","Norway","Montenegro"]
+	}
+```	
+  
 ## Bug report
 ```json
 {
