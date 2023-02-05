@@ -26,6 +26,15 @@
 	}
 ```	
   
+  ## My skills
+  ```json
+  {
+	"TestingTheory":["verification","validation","types of testing,"clientserver architecture"],
+	"TestDocumentation":["application mindmap","application glossary","checklists","bug reports","test cases"],
+	"Programs":["Charles","terminal","github","postman","visual studio code"],
+	"ProgrammingLanguage":"JavaScript"
+	}
+```
 ## Bug report
 ```json
 {
