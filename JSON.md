@@ -27,7 +27,7 @@
   ## My skills
   ```json
   {
-	"TestingTheory":["verification","validation","types of testing,"SDLC","STLC"],
+	"TestingTheory":["verification","validation","types of testing","SDLC","STLC"],
 	"TestDocumentation":["application mindmap","application glossary","checklists","bug reports","test cases"],
 	"Programs":["Charles","Terminal","Github","Postman","DBeaver"],
 	}
